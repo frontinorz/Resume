@@ -1,9 +1,9 @@
 # 温志桓( Brice )
 
-**學歷 :** 元智大學 / 資訊傳播學系-互動育樂科技組
-**居住地 :** 新竹
-**個人網站 :** https://frontinorz.github.io/Brice-Wen/
-**E-mail :** frontinorz@gmail.com
+#### 學歷 : 元智大學 / 資訊傳播學系-互動育樂科技組
+#### 居住地 : 新竹
+#### 個人網站 : https://frontinorz.github.io/Brice-Wen/
+#### E-mail : frontinorz@gmail.com
 
 ---
 
