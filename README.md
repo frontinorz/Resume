@@ -1,10 +1,11 @@
 # 温志桓( Brice )
 
 #### 學歷 : 元智大學 / 資訊傳播學系-互動育樂科技組
+#### 生日 : 1993 / 5 / 17
 #### 居住地 : 新竹
 #### 個人網站 : https://frontinorz.github.io/Brice-Wen/
 #### E-mail : frontinorz@gmail.com
-
+#### 連絡電話 : 0919252715
 ---
 
 ## 專業技能
@@ -19,15 +20,15 @@
 * 能不依賴 Framework 建置 RWD
 * 有 Bootstrap 使用經驗
 ### - Javascript
-* 使用 ES6
+* 有 ES6 基礎觀念
 * AJAX
-* 有介接第三方API經驗 (Google Map, Youtube API)
+* 有介接第三方API經驗 (Google Maps, Youtube API)
 ### - Vue.js
 * 使用 Vue-Cli + Webpack 開發
 * 有 SPA 網頁經驗
 ### - 開發環境
 * VSCode
-* 使用 Gulp 進行自動化
+* 有 Gulp 自動化經驗
 * 理解 Git / Github 基本指令運用
 ### - 其他技能
 * TOIEC 750
@@ -76,8 +77,7 @@
 * 手刻 RWD
 
 ### [個人網站](https://frontinorz.github.io/Brice-Wen/)
-* Vue-cli + Webpack 開發
-* Jquery 動畫操控
+* jQuery 動畫操控
 * 手刻 RWD
 
 ---
